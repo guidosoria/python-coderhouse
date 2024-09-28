@@ -1,0 +1,10 @@
+setup.py
+Segunda_pre-entrega_Soria/Clientes.py
+Segunda_pre-entrega_Soria/Primer Pre-Entrega Soria.py
+Segunda_pre-entrega_Soria/Productos.py
+Segunda_pre-entrega_Soria/__init__.py
+Segunda_pre-entrega_Soria/main.py
+Segunda_pre_entrega_Soria.egg-info/PKG-INFO
+Segunda_pre_entrega_Soria.egg-info/SOURCES.txt
+Segunda_pre_entrega_Soria.egg-info/dependency_links.txt
+Segunda_pre_entrega_Soria.egg-info/top_level.txt

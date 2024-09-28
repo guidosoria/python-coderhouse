@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bucles y Condicionales</title>
+</head>
+<body>
+    <h1>Bucles y Condicionales</h1>
+    <p>
+        {% for n in notas %}
+            {% if n >= 6 %}
+            <li style="color: green;">
+                Aprobado: {{n}}
+            </li>
+            {% else %}
+            <li style="color: red;">
+                No Aprobado: {{n}}
+            </li>
+            {% endif %}
+        {% endfor %}
+    </p>
+</body>
+</html>

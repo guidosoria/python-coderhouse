@@ -1,0 +1,9 @@
+setup.py
+mi_paquete2024.egg-info/PKG-INFO
+mi_paquete2024.egg-info/SOURCES.txt
+mi_paquete2024.egg-info/dependency_links.txt
+mi_paquete2024.egg-info/top_level.txt
+mi_primer_paquete/__init__.py
+mi_primer_paquete/menu.py
+mi_primer_paquete/modulo1.py
+mi_primer_paquete/modulo2.py

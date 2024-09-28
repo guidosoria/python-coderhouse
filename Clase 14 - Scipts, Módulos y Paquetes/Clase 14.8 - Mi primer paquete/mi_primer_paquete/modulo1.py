@@ -1,0 +1,9 @@
+class Persona:
+    def __init__(self, nombre, apellido):
+        self.nombre = nombre
+        self.apellido = apellido
+
+    def __str__(self):
+        return f"Nombre: {self.nombre}"
+    
+# Esto es un primer ejemplo, siempre es aconsejable módulos y paquetes con nombres representativos

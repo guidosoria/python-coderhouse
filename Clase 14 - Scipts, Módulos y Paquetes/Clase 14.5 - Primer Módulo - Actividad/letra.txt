@@ -1,0 +1,6 @@
+Primer módulo
+
+Crear un módulo que tenga una clase con atributos y métodos. Instanciar a la clase llamando al módulo desde otro archivo .py
+
+1 - Hacer una clase fácil, como Alumno, con nombre y nota, con un método imprimir().
+2 - Crear una instancia de Alumno, mostrando sus datos y llamando al método desde otro módulo
